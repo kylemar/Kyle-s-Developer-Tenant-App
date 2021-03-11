@@ -5,7 +5,7 @@ const msalConfig = {
     auth: {
         clientId: "e18c04b1-4868-4e93-93d1-8d71f17ab99b",
         authority: "https://login.microsoftonline.com/common",
-        redirectUri: "http://localhost:3000/",
+        redirectUri: "https://www.mtapp.kylemar.dev/",
     },
     cache: {
         cacheLocation: "sessionStorage", // This configures where your cache will be stored
